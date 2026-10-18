@@ -5398,9 +5398,9 @@ af.IsOpenButtonEnabled=false
 end
 
 if ar.OnlyMobile~=false then
-ar.OnlyMobile=false
+ar.OnlyMobile=true
 else
-af.IsPC=false
+af.IsPC=true
 end
 
 
